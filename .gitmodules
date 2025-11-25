@@ -1,0 +1,9 @@
+[submodule "lama"]
+	path = lama
+	url = https://github.com/DKaluvai/lama.git
+[submodule "pifuhd"]
+	path = pifuhd
+	url = https://github.com/DKaluvai/pifuhd.git
+[submodule "code/lama"]
+	path = code/lama
+	url = https://github.com/DKaluvai/code-lama.git
